@@ -41,6 +41,8 @@ Click [here](https://lulu-cao.github.io/cultivate-community/) to visit the site.
 
 [Anja Wiesner](https://github.com/awiesn)
 
+[Dooz Zher](https://github.com/doozher)
+
 ## Questions
 
 For questions, please email Jilian at [jillian.sechrest@gmail.com](mailto:jillian.sechrest@gmail.com).
